@@ -1,11 +1,10 @@
-//
 const data = {
   products: [
     {
-      name: 'Nike Slim Shirt',
-      slug: 'nike-slim-shirt',
-      category: 'Shirts',
-      image: '/images/p1.jpg',
+      name: 'Himbeere',
+      slug: 'Himbeere',
+      category: 'fruits',
+      image: '/images/Himbeeren.jpg',
       price: 120,
       countinstock: 10,
       brand: 'Nike',
@@ -15,3 +14,4 @@ const data = {
     },
   ],
 };
+export default data;
