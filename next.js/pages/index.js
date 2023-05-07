@@ -1,7 +1,3 @@
-import { Inter } from 'next/font/google';
-
-const inter = Inter({ subsets: ['latin'] });
-
 export default function Home() {
   return (
     <div className="max-w-md mx-auto bg-white shadow-xl rounded my-8">

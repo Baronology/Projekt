@@ -1,3 +1,5 @@
-# Projekt
+re# zum starten
 
-lets go
+go to next.js dicrurnai
+
+than tipe npm run dev and go to localhost:3000
