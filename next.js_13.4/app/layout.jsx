@@ -4,7 +4,7 @@ import Nav from '@components/nav';
 // import Provider from '@components/provider';
 
 export const metadata = {
-  title: 'Ändrej_Dorian',
+  title: 'Fruition',
   Description: "Ändrej_Dorian's personal website",
 };
 

@@ -72,7 +72,12 @@
 }
 
 /* Tailwind Styles */
+/* meine */
 
+.btn_black_rounded {
+  @apply hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full;
+}
+/* vorgefertigete */
 .app {
   @apply relative z-10 flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-16 px-6;
 }
